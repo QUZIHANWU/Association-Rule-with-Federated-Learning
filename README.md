@@ -6,7 +6,7 @@ made by Martin who currently work in tongdun.net as a intern.
 
 If any thing wrong, please email to quzihanwu.0712@gamil.com
 
-<img src="./docs/image/fedml.jpg" width="620">
+<img src="./fedml.jpg" width="620">
 
 ## Content
 In this repository, we basically want to show some basic association rule depending on federated securtiy algorithm.
