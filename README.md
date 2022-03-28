@@ -1,4 +1,4 @@
-# Association Rule with Federated Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Association Rule with Federated Learning [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 made by Martin who currently work in tongdun.net as a intern.
 
